@@ -28,7 +28,7 @@ excerpt_separator: "\n\n"
 
 # Serving
 detach:       false
-port:         4000
+port:         80
 host:         wyqbailey.github.io
 baseurl:      "" # does not include hostname
 
@@ -41,7 +41,7 @@ timezone:      null
 title: 白木堂
 subTitle: 自强不息
 description: 用穿越春夏秋冬的坚持，去创造和享受美好的事物
-url: http://wyqbailey.github.io:4000
+url: http://wyqbailey.github.io
 feed: /atom.xml
 
 #菜单配置
