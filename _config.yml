@@ -29,7 +29,7 @@ excerpt_separator: "\n\n"
 # Serving
 detach:       false
 port:         4000
-host:         127.0.0.1
+host:         wyqbailey.github.io
 baseurl:      "" # does not include hostname
 
 # Outputting
@@ -38,10 +38,10 @@ paginate_path: /page:num
 timezone:      null
 
 #站点基础配置
-title: iLotus
-subTitle: Just another Jekyll blog.
-description: 这是 PIZn 的又一个博客，它是基于 Jekyll 搭建起来的。在这里，不仅仅是用来快速记录工作，学习，生活的一点一滴的地方，更是 PIZn 对 Jekyll 的学习和使用的一次有意义的实践。
-url: http://localhost:4000
+title: 白木堂
+subTitle: 自强不息
+description: 用穿越春夏秋冬的坚持，去创造和享受美好的事物
+url: http://wyqbailey.github.io:4000
 feed: /atom.xml
 
 #菜单配置
@@ -79,4 +79,4 @@ page:
     last: false
 
 author:
-  name: PIZn
+  name: wyqbailey
