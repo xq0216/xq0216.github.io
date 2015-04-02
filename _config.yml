@@ -39,7 +39,7 @@ timezone:      null
 
 #站点基础配置
 title: 白木堂
-subTitle: 自强不息
+subTitle: 自强不息，厚德载物
 description: 用穿越春夏秋冬的坚持，去创造和享受美好的事物
 url: http://wyqbailey.github.io
 feed: /atom.xml
@@ -58,12 +58,8 @@ nav:
     url: /contact.html
     icon: icon-envelope-alt
     class: none
-  - text: 联系我
-    url: http://www.zhanxin.info/contact.html
-    icon: icon-heart
-    class: none
   - text: 博客源代码
-    url: https://github.com/pizn/iLotus
+    url: https://github.com/wyqbailey/wyqbailey.github.io
     icon: icon-github
     class: none
 
