@@ -29,7 +29,7 @@ excerpt_separator: "\n\n"
 # Serving
 detach:       false
 port:         80
-host:         wyqbailey.github.io
+host:         xq0216.github.io
 baseurl:      "" # does not include hostname
 
 # Outputting
@@ -59,7 +59,7 @@ nav:
     icon: icon-envelope-alt
     class: none
   - text: 博客源代码
-    url: https://github.com/wyqbailey/wyqbailey.github.io
+    url: https://github.com/wyqbailey/xq0216.github.io
     icon: icon-github
     class: none
 
@@ -75,4 +75,4 @@ page:
     last: false
 
 author:
-  name: wyqbailey
+  name: 千总
